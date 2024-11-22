@@ -1,0 +1,22 @@
+{
+  "title": "Elasticsearch Playground",
+  "description": "Quickstart of Elasticsearch",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "background": "setup.sh"
+    },
+    "steps": [
+      {
+        "title": "Create an empty file",
+        "text": "step1/text.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu-4GB"
+  }
+}
